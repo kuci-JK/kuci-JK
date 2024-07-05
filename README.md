@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Android and Kotlin
 - 💞️ I’m looking to collaborate on some fun projects
 - 📫 How to reach me 
-  - Twitter: <a href="https://twitter.com/kuci_JK">@kuci_JK</a>
   - Email: <a href="mailto:jan.kucera.254+githubpublic@gmail.com">jan.kucera.254+githubpublic@gmail.com</a>
 
 <!---
