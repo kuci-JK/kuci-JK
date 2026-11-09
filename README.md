@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @kuci-JK
-- 👀 I’m interested in Android, photography, technology, art, math, music
-- 🌱 I’m currently learning Android and Kotlin
-- 💞️ I’m looking to collaborate on some fun projects
-- 📫 How to reach me 
-  - Email: <a href="mailto:jan.kucera.254+githubpublic@gmail.com">jan.kucera.254+githubpublic@gmail.com</a>
+Hi, I’m @kuci-JK :)
 
 <!---
 kuci-JK/kuci-JK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
